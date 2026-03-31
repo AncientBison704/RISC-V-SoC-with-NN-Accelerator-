@@ -1,0 +1,16 @@
+<< 'EOF'
+__pycache__/
+*.pyc
+*.vcd
+*.log
+*.out
+sim/
+build/
+dist/
+*.bin
+*.elf
+*.o
+*.swp
+.DS_Store
+EOF
+
